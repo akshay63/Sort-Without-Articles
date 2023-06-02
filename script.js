@@ -1,9 +1,6 @@
 /*
  **--------- Project17: Sort without articles ---------**
-
  Goal: Sort the list using array's sort() method without the "The", "An" and "A" in the items list and then render the items in the browser
-
-
  */
 
 "use strict";
